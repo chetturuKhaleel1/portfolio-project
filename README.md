@@ -1,12 +1,55 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+# 4️⃣ Personal Portfolio Website – README.md
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```markdown
+# 🌐 Personal Portfolio Website
 
-## Expanding the ESLint configuration
+A modern **portfolio website** built with **React.js + Tailwind CSS (Vite)**.  
+Showcases skills, projects, and resume in a professional and responsive layout.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Live Demo
+🔗 [Click here to view the Portfolio](https://portfolio-project-alpha-rose.vercel.app/)
+
+---
+
+## ✨ Features
+- Landing page with **name, bio, profile picture**.  
+- **About Me** section: education, experience, hobbies.  
+- **Projects showcase** with descriptions and images.  
+- **Contact form** with validation.  
+- Downloadable **resume PDF**.  
+- Fully **responsive design**.  
+- Smooth navigation, hover effects, and interactive elements.  
+
+---
+
+## 🛠️ Technologies Used
+- **React.js**  
+- **Tailwind CSS**  
+- **Vite**  
+- Hosting: Vercel  
+
+---
+
+## 📷 Screenshot
+![Portfolio Screenshot](./vite-project/src/assets/protofiliofinalscreen.png)
+
+---
+
+## ⚡ How to Clone and Run Locally
+```bash
+# Clone the repository
+git clone <portfolio-repo-link>
+
+# Navigate into project folder
+cd "Personal Portfolio Website"
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev

@@ -1,9 +1,3 @@
-
----
-
-# 4️⃣ Personal Portfolio Website – README.md
-
-```markdown
 # 🌐 Personal Portfolio Website
 
 A modern **portfolio website** built with **React.js + Tailwind CSS (Vite)**.  
@@ -12,7 +6,7 @@ Showcases skills, projects, and resume in a professional and responsive layout.
 ---
 
 ## 🚀 Live Demo
-🔗 [Click here to view the Portfolio](https://portfolio-project-alpha-rose.vercel.app/)
+[View Live Portfolio](https://portfolio-project-alpha-rose.vercel.app/)
 
 ---
 
@@ -36,14 +30,14 @@ Showcases skills, projects, and resume in a professional and responsive layout.
 ---
 
 ## 📷 Screenshot
-![Portfolio Screenshot](./vite-project/src/assets/protofiliofinalscreen.png)
+![Portfolio Screenshot](vite-project/src/assets/protofiliofinalscreen.png)
 
 ---
 
 ## ⚡ How to Clone and Run Locally
 ```bash
 # Clone the repository
-git clone <portfolio-repo-link>
+git clone https://github.com/chetturuKhaleel1/portfolio-project.git
 
 # Navigate into project folder
 cd "Personal Portfolio Website"

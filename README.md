@@ -28,9 +28,8 @@ Showcases skills, projects, and resume in a professional and responsive layout.
 - Hosting: Vercel  
 
 ---
-
 ## 📷 Screenshot
-![Portfolio Screenshot](vite-project/src/assets/protofiliofinalscreen.png)
+![Screenshot](src/assets/finalscreen.png)
 
 ---
 
